@@ -1,0 +1,30 @@
+﻿<Window x:Class="HiVoltage_3._5_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HiVoltage_3._5_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="589.488" Width="800.426">
+    <Grid>
+        <Button x:Name="OnButton" Content="Power ON" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,10,0,0" Click="OnButton_Click"/>
+        <Button x:Name="OffButton" Content=" Power OFF" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,47,0,0" Click="OffButton_Click"/>
+
+        <Button x:Name="OnTriacButton" Content="Triac ON" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,84,0,0" Click="OnTriacButton_Click"/>
+        <Button x:Name="OffTriacButton" Content="Triac OFF" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,121,0,0" Click="OffTriacButton_Click"/>
+
+        <Button x:Name="LoadSettings" Content="Load Set" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,195,0,0" Click="LoadSettings_Click"/>
+        <Button x:Name="SaveSettings" Content="Save Set" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,232,0,0" Click="SaveSettings_Click"/>
+
+        <Button x:Name="Prepare" Content="Prepare" Margin="10,0,0,110" Height="45" Click="Prepare_Click" HorizontalAlignment="Left" Width="106" VerticalAlignment="Bottom"/>
+        <Button x:Name="Xray" Content="Xray" Margin="10,0,0,60" Height="45" Click="Xray_Click" HorizontalAlignment="Left" Width="106" VerticalAlignment="Bottom"/>
+        <Button x:Name="Cancel" Content="Cancel" Margin="10,0,0,10" Height="45" Click="Cancel_Click" HorizontalAlignment="Left" Width="106" VerticalAlignment="Bottom"/>
+
+        <Button x:Name="Status" Content="Status" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,158,0,0" Height="32" Click="Status_Click"/>
+
+
+
+        <TextBox x:Name="LogTextBox" Margin="121,10,10,10" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="10"/>
+
+    </Grid>
+</Window>
