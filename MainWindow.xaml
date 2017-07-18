@@ -22,8 +22,6 @@
 
         <Button x:Name="Status" Content="Status" HorizontalAlignment="Left" VerticalAlignment="Top" Width="106" Margin="10,158,0,0" Height="32" Click="Status_Click"/>
 
-
-
         <TextBox x:Name="LogTextBox" Margin="121,10,10,10" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="10"/>
 
     </Grid>

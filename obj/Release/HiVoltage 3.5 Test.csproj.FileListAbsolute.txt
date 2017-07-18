@@ -52,3 +52,22 @@ d:\Klio HiVoltage 3.5 old\! ! ! HiVoltage 3.5 Test\obj\Release\MainWindow.baml
 d:\Klio HiVoltage 3.5 old\! ! ! HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.g.resources
 d:\Klio HiVoltage 3.5 old\! ! ! HiVoltage 3.5 Test\obj\Release\HiVoltage_3._5_Test.Properties.Resources.resources
 d:\Klio HiVoltage 3.5 old\! ! ! HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.csproj.GenerateResource.Cache
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\HiVoltage 3.5 Test.exe.config
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.exe
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.pdb
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\HiVoltage 3.5 Test.exe
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\HiVoltage 3.5 Test.pdb
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\MaterialDesignColors.dll
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\MaterialDesignThemes.Wpf.dll
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\MaterialDesignThemes.Wpf.pdb
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\bin\Release\MaterialDesignThemes.Wpf.xml
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.csprojResolveAssemblyReference.cache
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\MainWindow.g.cs
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\App.g.cs
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test_MarkupCompile.cache
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test_MarkupCompile.lref
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\App.baml
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\MainWindow.baml
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.g.resources
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage_3._5_Test.Properties.Resources.resources
+G:\Projects\!!!New_PWM\HiVoltage 3.5 Test\obj\Release\HiVoltage 3.5 Test.csproj.GenerateResource.Cache
